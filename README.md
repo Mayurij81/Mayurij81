@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayurij81
 - 👀 I’m interested in Generative AI and Machine learning
-- 🌱 I’m currently learning DSA,MERN
+- 🌱 I’m currently learning DSA and Data Science
 - 💞️ I’m looking to collaborate on LLM based projects
 - 📫 How to reach me mayurij0306@gmaiil.com
 - 😄 Pronouns: she/her
